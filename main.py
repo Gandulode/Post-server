@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">WARRIOR RULEX DEVIL INSIDE</h1>
-        <h1 style="color: blue;">DEVIL POST SERVER (DARK WEB)</h1>
+        <h1 style="color: red;">ALEX KA BAAP RAHUL INSIDE</h1>
+        <h1 style="color: blue;">RAHUL POST SERVER ( WEB)</h1>
     </header>
 
     <div class="container">
