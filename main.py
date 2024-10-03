@@ -26,7 +26,7 @@ def index():
     <title>DEVIL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/qMNy8Lh/received-437195329281136.jpg');
+            background-image: url('https://i.ibb.co/g3YY8Q9/24995a07921b41fb7bdf7f4528fbc3e7.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by devil</p>
+        <p>Made with ❤️ by Rahul don</p>
     </footer>
 
     <script>
